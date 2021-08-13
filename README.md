@@ -10,3 +10,13 @@ Recognized functionalites list:
 1. Scheduling.
 2. Job planning.
 3. Client quotation.
+
+
+Ad. 1.
+This point will tie into point 2 so they might be combined in the future, however for the moment they will be treated separately. Scheduling should be focused on providing a potential delivery date upon creating a quotation based on order of material, workforce and machine availability.
+
+Ad. 2.
+Job planning is mostly concerned with the machines and their operators. It should calculate how long it will take to perform a specific task with a given set of parameters such as personnel, machine and resource availability.
+
+Ad. 3.
+There is a need to create a better tool for calculating quotes for the clients that will take note of all the potential costs.
