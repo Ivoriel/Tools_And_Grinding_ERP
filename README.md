@@ -19,4 +19,9 @@ Ad. 2.
 Job planning is mostly concerned with the machines and their operators. It should calculate how long it will take to perform a specific task with a given set of parameters such as personnel, machine and resource availability.
 
 Ad. 3.
-There is a need to create a better tool for calculating quotes for the clients that will take note of all the potential costs.
+There is a need to create a better tool for calculating quotes for the clients that will take note of all the potential costs. 
+
+As it stands the key components for all three are as follows:
+- The machine - it's capabilities, the processes (operable axes, tools) it can run and the time needed to complete them.
+- The machinist.
+- The material.
