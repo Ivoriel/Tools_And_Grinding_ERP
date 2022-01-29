@@ -7,7 +7,7 @@ Ultimate goal of this project is to build usable software that would be useful t
 Task of buiding the software will be done in steps. Below is a list of features to be worked upon. If possible the list will recognize priorites and move them to the top.
 
 Recognized functionalites list:
-1. Scheduling.
+1. Scheduling - current priority.
 2. Job planning.
 3. Client quotation.
 
